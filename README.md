@@ -10,7 +10,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 - [Tecnologías y herramientas](#-tecnologías-y-herramientas)
 - [Proyectos](#-proyectos)
 - [Cómo contactarme](#-cómo-contactarme)
-- [Intereses](#intereses)
+- [Intereses](#-intereses)
 
 ---
 
